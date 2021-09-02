@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
     "git-commit-msg-linter": "^3.2.8",
     "husky": ">=6",
     "lint-staged": ">=10",
+    "prettier": "^2.3.2",
     "typescript": "^4.4.2"
   },
   "lint-staged": {
