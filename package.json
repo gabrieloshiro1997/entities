@@ -34,5 +34,8 @@
   },
   "lint-staged": {
     "src/**/*.ts": "eslint --cache --fix"
+  },
+  "dependencies": {
+    "typeorm": "^0.2.28"
   }
 }
