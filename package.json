@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/gabrieloshiro1997/entities#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^3.2.8"
+    "@types/node": "^16.7.10",
+    "git-commit-msg-linter": "^3.2.8",
+    "typescript": "^4.4.2"
   }
 }
