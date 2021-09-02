@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabrieloshiro1997/entities/issues"
   },
-  "homepage": "https://github.com/gabrieloshiro1997/entities#readme"
+  "homepage": "https://github.com/gabrieloshiro1997/entities#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
