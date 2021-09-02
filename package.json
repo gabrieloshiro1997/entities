@@ -1,0 +1,19 @@
+{
+  "name": "@gabrieloshiro1997/entities",
+  "version": "1.0.0",
+  "description": "Package to share entities with another projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieloshiro1997/entities.git"
+  },
+  "author": "Gabriel <gabrieloshiro1997@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieloshiro1997/entities/issues"
+  },
+  "homepage": "https://github.com/gabrieloshiro1997/entities#readme"
+}
