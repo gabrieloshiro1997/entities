@@ -1,6 +1,6 @@
 import { Column, Entity, OneToMany } from 'typeorm'
 import { BaseEntity } from '../models/base'
-import { Role } from './role'
+import { Role } from './role.entity'
 
 @Entity('user')
 export class User extends BaseEntity {
