@@ -1,6 +1,6 @@
 {
   "name": "@gabrieloshiro1997/typeorm-entities",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Package to share entities with another projects",
   "main": "src/index.ts",
   "scripts": {
