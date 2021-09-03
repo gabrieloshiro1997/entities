@@ -1,3 +1,4 @@
-import * as entities from './entities'
+import { User } from './entities/user'
+import { Role } from './entities/role'
 
-export { entities }
+export { User, Role }
